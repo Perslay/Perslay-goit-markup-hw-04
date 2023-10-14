@@ -341,7 +341,6 @@ img {
 .footer-wrap {
   align-items: baseline;
   display: flex;
-  gap: 120px;
   justify-content: flex-start;
 }
 
